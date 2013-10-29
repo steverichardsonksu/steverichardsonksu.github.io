@@ -1,0 +1,6 @@
+Sitemap: /sitemap.xml
+User-agent:*
+Disallow: /blog
+Disallow: /tweets
+Disallow: /notes
+Disallow: /scripts
